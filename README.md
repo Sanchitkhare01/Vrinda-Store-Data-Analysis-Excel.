@@ -1,2 +1,10 @@
-# Vrinda-Store-Data-Analysis-Excel.
-An Interactive Excel dashborad analyzing sales data for Vrinda Store.
+# Vrinda Store Annual Sales Analysis (2022)
+# Project Objective
+The goal is to analyze the sales date of Vrinda Store for 2022 to understand customer behavior and increase revenue. 
+# Key Insights ( Sample Insights)
+Women are more likely to buy compared to men (-65%)
+Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (-35%)
+Adult age group (30-49 yrs) is max contributing (-50%)
+Amazon, Flipcart and Myntra channels are max contributing (-80%)
+# Final Conclusion to improve Vrinda store sales:
+Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipcart and Myntra
